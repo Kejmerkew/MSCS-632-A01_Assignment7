@@ -20,8 +20,6 @@ Each implementation demonstrates the key concepts of its respective paradigm, al
 ## Running the Programs
 
 ### 1. C Implementation (Procedural)
-
-#### **Run program**
 ```bash
 cd C
 gcc StatisticsCalculator.c -o StatisticsCalculator
