@@ -33,7 +33,7 @@ sudo apt update
 sudo apt install ocaml
 
 cd OCaml_Implementation
-ocaml StatsCalculator.m
+ocaml StatsCalculator.ml
 ```
 
 ### 3. Python Implementation
