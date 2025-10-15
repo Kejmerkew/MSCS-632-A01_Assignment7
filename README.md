@@ -21,7 +21,8 @@ Each implementation demonstrates the key concepts of its respective paradigm, al
 
 ### 1. C Implementation
 ```bash
-cd C
+cd C_Implementation
+
 gcc StatisticsCalculator.c -o StatisticsCalculator
 ./StatisticsCalculator
 ```
@@ -31,14 +32,13 @@ gcc StatisticsCalculator.c -o StatisticsCalculator
 sudo apt update
 sudo apt install ocaml
 
-cd C
-gcc StatisticsCalculator.c -o StatisticsCalculator
-./StatisticsCalculator
+cd OCaml_Implementation
+ocaml StatsCalculator.m
 ```
 
 ### 3. Python Implementation
 ```bash
-cd C
-gcc StatisticsCalculator.c -o StatisticsCalculator
-./StatisticsCalculator
+cd Python_Implementation
+
+python3 StatsCalculator.py
 ```
