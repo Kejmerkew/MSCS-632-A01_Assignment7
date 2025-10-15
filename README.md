@@ -19,10 +19,26 @@ Each implementation demonstrates the key concepts of its respective paradigm, al
 
 ## Running the Programs
 
-### 1. C Implementation (Procedural)
+### 1. C Implementation
 ```bash
 cd C
 gcc StatisticsCalculator.c -o StatisticsCalculator
 ./StatisticsCalculator
 ```
 
+### 2. OCaml Implementation
+```bash
+sudo apt update
+sudo apt install ocaml
+
+cd C
+gcc StatisticsCalculator.c -o StatisticsCalculator
+./StatisticsCalculator
+```
+
+### 3. Python Implementation
+```bash
+cd C
+gcc StatisticsCalculator.c -o StatisticsCalculator
+./StatisticsCalculator
+```
