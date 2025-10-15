@@ -21,14 +21,10 @@ Each implementation demonstrates the key concepts of its respective paradigm, al
 
 ### 1. C Implementation (Procedural)
 
-#### **Requirements**
-- GCC (GNU Compiler)
-- Linux or WSL environment
-
-#### **Steps**
+#### **Run program**
 ```bash
 cd C
-gcc stats_calculator.c -o stats_calculator
-./stats_calculator
+gcc StatisticsCalculator.c -o StatisticsCalculator
+./StatisticsCalculator
 ```
 
